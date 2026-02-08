@@ -10,7 +10,7 @@ This project combines:
 
 ---
 
-## ✨ What This App Does
+## What This App Does
 
 Given a wallet address, the system:
 
@@ -25,7 +25,7 @@ Given a wallet address, the system:
   A concise professional interpretation of wallet behavior
 
 - **Risk Level**  
-  Low / Medium / High (with justification)
+  Low / Medium / High
 
 - **Behavior Tags**  
   e.g. `New User`, `DeFi Participant`, `Low Activity`
@@ -38,7 +38,7 @@ Given a wallet address, the system:
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 ### Backend
 - Node.js + TypeScript
@@ -60,7 +60,7 @@ Given a wallet address, the system:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```txt
 onchain-rep-ai/
@@ -105,7 +105,7 @@ ALCHEMY_API_KEY=your_alchemy_key
 PORT=4000
 ```
 
-# 🚀 Getting Started
+# Getting Started
 
 1️⃣ Install dependencies
 
