@@ -1,6 +1,6 @@
 # 🧠 On-Chain AI Reputation System
 
-An analyst-grade Web3 application that generates **AI-powered reputation reports for blockchain wallets** using on-chain behavior.
+An analyst-grade Web3 application that generates **AI-powered reputation reports for blockchain wallets(*only eth wallets at the moment*)** using on-chain behavior.
 
 This project combines:
 - **Blockchain data** (wallet activity)
@@ -148,5 +148,5 @@ Go to:
 http://localhost:3000
 ```
 
-# 🧪 How to Use the App
+# Demo of the app
 <img width="752" height="505" alt="Schermafbeelding 2026-02-08 om 18 10 53" src="https://github.com/user-attachments/assets/6b15a79c-dd0e-48ab-ad2b-881746b52122" />
