@@ -149,3 +149,4 @@ http://localhost:3000
 ```
 
 # 🧪 How to Use the App
+<img width="752" height="505" alt="Schermafbeelding 2026-02-08 om 18 10 53" src="https://github.com/user-attachments/assets/6b15a79c-dd0e-48ab-ad2b-881746b52122" />
